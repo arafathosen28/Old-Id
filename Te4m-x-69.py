@@ -195,8 +195,6 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;95m[0] ══BACK '
     time.sleep(0.10)
-    print '\x1b[1;96m ════ARAFAT 69
-    time.sleep(0.10)
     print '\x1b[1;97m════Te4m X 69
     time.sleep(0.10)
     print '\x1b[1;91m ════DONT COPY MY SCRIPT'
